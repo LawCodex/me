@@ -29,7 +29,7 @@ Part of [LawCodex](https://github.com/LawCodex): one repository per jurisdiction
 | Directory | Content | Files |
 |---|---|---|
 | `ustav/` | Ustav Crne Gore (2007, with Amendments I–XVI of 2013) — consolidated text from gov.me | 1 |
-| `zakoni/<year>/` | Laws in force (status *Važeći* in the official register) for which a text was found in the Government library: 3 codes, 295 laws (25 of them marked as consolidated) | 298 |
+| `zakoni/<year>/` | Laws in force (status *Važeći* in the official register) for which a text was found in the Government library: 3 codes, 294 laws (24 marked as consolidated) | 297 |
 | `registar/zakoni.md` | Metadata index of all laws in the official register (title, gazette, status, field) | 1 |
 
 `<year>` is the year of the original publication in the *Službeni list*. File names:
