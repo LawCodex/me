@@ -47,7 +47,7 @@ original act), `type`, `status: in_force` (from the register), `text_version`
 
 ## Licence
 
-Under the Montenegrin Law on Copyright and Related Rights (čl. 9), laws, regulations and other
+Under the Montenegrin Law on Copyright and Related Rights, laws, regulations and other
 official texts of state bodies are not protected by copyright.
 
 ## Regenerating
